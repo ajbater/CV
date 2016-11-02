@@ -1,18 +1,18 @@
-## Your Name
+## Amanda Bater
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I've spent the last 6 years working as a designer in the fashion industry, and have recently left this behind to pursue a career in web development. Learning to code has reignited my love of learning, creativy and problem solving. I hope to find a job where I can continue to feel challenged and excited every day, and work with like-minded people creating awesome things!
 
 ## Skills
 
-#### This Skill
+#### Creativity
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Working as a designer for the last 6 years has given me the the chance to utilise my creativity on a daily basis. In my last role I spent most of my time working directly with clients, being briefed on their needs and carrying out design work in response to this. I recognise that creativity is often a collaborative process and have enjoyed working closely with clients and other members of my team.
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -21,9 +21,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Design Software
+
+I have over 10 years on experience using design software such as Photoshop and Illustrator, having used these programs on a daily basis throughout my career.
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2016 to February 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +36,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Bath Spa University (2007-2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- Textile Design for Fashion and Interiors, specialising in print
+- First
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Misfit Fashions** (May 2014 to October 2016)    
+*Print Designer*  
+**Bay and Brown** (July 2010 to May 2014)   
+*Print Designer*  
