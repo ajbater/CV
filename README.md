@@ -20,9 +20,7 @@ I have lots of experience with working to tight deadlines, and carrying out impo
 
 #### Technical Skills
 
-Ruby, Rails, Sinatra, JavaScript, Node.js, Express.js, React.js, PostgreSQL, HTML, CSS.
-
-I'm also highly capably with Adobe Suite software, especially Photoshop.
+Ruby, Rails, Sinatra, JavaScript, Node.js, Express.js, React.js, PostgreSQL, HTML, CSS. I'm also highly capably with Adobe Suite software, especially Photoshop.
 
 ## Education
 
