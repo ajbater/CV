@@ -29,7 +29,7 @@ I have enjoyed using Ruby (with Rails, Sinatra and PostgreSQL databases) and Jav
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Standups & Retros](https://github.com/ajbater/makers-standups-retros) | A tool for remote developer teams. Allows groups to have a standup or retro on a collaborative whiteboard in real time | MongoDB, Express, React.js, Node.js, Websockets, Mocha, TestUtils |
+| [Standups & Retros](https://github.com/ajbater/makers-standups-retros) | A tool for remote developer teams. Allows groups to have a standup or retro on a collaborative whiteboard in real time | MongoDB, Express, React.js, Node.js, Websockets, Mocha, Enzyme |
 |[InstaCat](https://github.com/ajbater/instagram-challenge)| A Makers Academy weekend project. Build a simple Instagram clone | Ruby, Rails, Postgres with ActiveRecord, OAuth, Devise, RSpec, Capybara|
 | [Chitter](https://github.com/ajbater/chitter-challenge) | A Makers Academy weekend project. Build a simple Twitter clone | Ruby, Sinatra, Postgres with DataMapper, RSpec, Capybara |
 | [Rock Paper Scissors](https://github.com/ajbater/rps-challenge) | Another Makers Academy weekend project. Play a game of Rock Paper Scissors against your computer | Ruby, Sinatra, RSpec, Capybara |
