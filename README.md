@@ -10,6 +10,10 @@ My time at Makers Academy has instilled in me a passion for writing clean, exten
 
 Working as a designer for the last 6 years gave me the the chance to utilise my creative skills on a daily basis. In my last role I spent a great deal of time working directly with clients, being briefed on their needs and carrying out design work in response to this. I recognise that creativity is often a collaborative process and have relished the opportunity to work closely with clients and other members of my team. I feel strongly that creativity is also an important aspect of coding - I love the thrill of creating something from nothing and the challenge of designing a well-thought-out solution that adheres to the best practises that I have learnt. I have a good eye for aesthetics and have had a lot of fun bringing this into my project work at Makers Academy.
 
+#### Design
+
+My design training has been a valuable asset that I've been able to apply to my coding projects. A good example of this would be in my [final project](http://standupsandretros.herokuapp.com/), where my teammates were impressed with my attention to detail, focus and enthusiasm for adding small features that greatly improved the overall design of our app and the experience of the user. I'm good at keeping the user and their needs in mind when creating new things, and I feel excited when faced with the different challenges that each new project brings.
+
 
 #### Communication
 
