@@ -2,7 +2,9 @@
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 I am a full stack junior developer and new graduate of [Makers Academy](http://makersacademy.com), a highly selective web development bootcamp. During my time here I have been trained in Object Oriented Design principles, Agile methodologies, pair programming and peer-reviewing. I have been instilled with a passion for writing clean, extendable, well-tested code.
+
 Prior to this I worked as a designer in the fashion industry, and have worked with both small studios and large retailers. I found myself seeking a change in direction, and found that coding reignited my love of learning, creativity, and designing well crafted solutions to problems.
+
 I'm currently seeking my first role as a junior developer, and I'm looking forward to joining a team where I can get stuck in, and have the opportunity and support to continue this fast pace of learning.
 
 ## Skills
