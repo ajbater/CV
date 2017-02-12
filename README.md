@@ -28,7 +28,7 @@ I have a lot of experience with working to tight (and frequent!) deadlines, and 
 
 #### Fast learning
 
-Originally from a non-technical background I have been amazed by what I have been able to learn just 12 weeks, and I'm excited about challenging myself further and continuing to refine and add to my skills. A recent project I'm really proud of was [Standups and Retros](https://github.com/ajbater/makers-standups-retros), a web app aimed at remote teams to help them maintain an Agile workflow. This was a group project built over ten days using the MERN stack plus websockets, despite all four of us having no prior experience of these technologies. Check out my [Github profile](https://github.com/ajbater) to see how far I've come, or see below for a sample of y projects.
+Originally from a non-technical background I have been amazed by what I have been able to learn just 12 weeks, and I'm excited about challenging myself further and continuing to refine and add to my skills. A recent project I'm really proud of was [Standups and Retros](https://github.com/ajbater/makers-standups-retros), a web app aimed at remote teams to help them maintain an Agile workflow. This was a group project built over ten days using the MERN stack plus websockets, despite all four of us having no prior experience of these technologies. Check out my [Github profile](https://github.com/ajbater) to see how far I've come, or see below for a sample of my projects.
 
 #### Technical Skills
 
