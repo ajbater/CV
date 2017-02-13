@@ -67,4 +67,4 @@ I have enjoyed using Ruby (with Rails, Sinatra and PostgreSQL databases) and Jav
 
 ## Interests
 
-In my spare time I like to unwind with yoga and running, and also enjoy creative pursuits such as photography, exhibitions and film.
+In my spare time I like to unwind with yoga and running, and also enjoy creative pursuits such as photography, exhibitions and film. Recently I have really enjoyed going to tech meetups; I find them a fun way to learn more and get involved with and inspired by my new industry.
